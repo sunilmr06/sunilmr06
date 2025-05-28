@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sunilmr06
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on good compane
-  
-
-<!---
-sunilmr06/sunilmr06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m **Sunil M R** (@sunilmr06)  
+💻 I'm passionate about software development and web technologies  
+🎓 I completed my BCA from GFGC Thirthahalli, Kuvempu University (2024)  
+🌱 Currently learning full stack development and improving my .NET skills  
+🔍 Actively looking to collaborate with innovative companies and developers  
+📫 How to reach me: sunilmr0603@gmail.com
