@@ -1,13 +1,22 @@
-👋 Hi, I’m **Sunil M R** (@sunilmr06)  
+👋 Hi, I’m **Sunil M R** (@sunilmr06)
 
-Live Site: https://sunilmr06.github.io/Sunil_Portfolio/
+💻 Passionate about **Software Development** and **Machine Learning**
 
-💻 I'm passionate about software development and web technologies
+🎓 **Education**
+- MCA – Surana College, Bengaluru, Karnataka (2025–2027)
+- BCA – Kuvempu University, Shivamogga, Karnataka (2024)
 
-🎓 I completed my BCA from GFGC Thirthahalli, Kuvempu University (2024)  
+🌱 Currently learning and building projects in:
+- Data Structures & Algorithms  
+- Java, Python  
+- Machine Learning basics  
 
-🌱 Currently learning full stack development and improving my .NET skills  
+🔍 Actively looking to collaborate with:
+- Innovative companies  
+- Developers working on real-world projects  
 
-🔍 Actively looking to collaborate with innovative companies and developers  
+🌐 **Portfolio**
+👉 https://sunilmr06.github.io/Sunil_Portfolio/
 
-📫 How to reach me: sunilmr0603@gmail.com
+📫 **Contact**
+- Email: sunilmr0603@gmail.com
