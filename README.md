@@ -12,7 +12,7 @@
 - Machine Learning basics  
 
 🔍 Actively looking to collaborate with:
-- Innovative companies  
+- Innovative companies 
 - Developers working on real-world projects  
 
 🌐 **Portfolio**
